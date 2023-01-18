@@ -54,3 +54,10 @@ Run the app
 ```bash
 flutter run
 ```
+
+## Resources
+[Flutter Docs](https://flutter.dev/docs)
+
+[Provider Docs](https://pub.dev/documentation/provider/latest/)
+
+[Binance Docs](https://binance-docs.github.io/apidocs/spot/en/#introduction)
